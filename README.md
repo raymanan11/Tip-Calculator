@@ -5,8 +5,8 @@ Swift IOS App perfect for splitting checks that calculates total amount per pers
 
 Logic Practiced:
 
-UIButtons, UIStepper, UIStoryboardSegue
-Using segues to transition to another screen
-Optionals
-Working with multiple View Controllers
-IOS AutoLayout
+*UIButtons, UIStepper, UIStoryboardSegue
+*Using segues to transition to another screen
+*Optionals
+*Working with multiple View Controllers
+*IOS AutoLayout

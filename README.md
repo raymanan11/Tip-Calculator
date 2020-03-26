@@ -10,3 +10,5 @@ Logic Practiced:
 * Optionals
 * Working with multiple View Controllers
 * IOS AutoLayout
+
+Swift and IOS App development learned from Angela Yu at London App Brewery

@@ -1,7 +1,7 @@
 # Tip-Calculator
 Swift IOS App perfect for splitting checks that calculates total amount per person plus tip!
 
-![Tipsy App](TipCalculator.gif)
+![Tipsy App](https://media.giphy.com/media/kF6BoaCdyeAdlR0f2J/giphy.gif)
 
 Logic Practiced:
 
